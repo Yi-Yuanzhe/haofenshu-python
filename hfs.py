@@ -44,4 +44,3 @@ def getScore():
 if __name__ == '__main__':
     login()
     getScore()
-#login('yicorleone', '31e56aaab8b80e5ca2d1a8e4d55f0519')

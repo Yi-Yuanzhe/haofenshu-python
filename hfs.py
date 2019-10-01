@@ -4,7 +4,7 @@ import EncPwd
 import json
 
 #account = 'yicorleone'
-#password = '31e56aaab8b80e5ca2d1a8e4d55f0519'
+#password = ''
 url_login = "http://hfs-be.yunxiao.com/v1/user/user-session"
 url_score = "http://hfs-be.yunxiao.com/v1/score"
 
